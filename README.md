@@ -1,6 +1,6 @@
-[![MasterHead](https://camo.githubusercontent.com/e4f6948f52487a059f77cd05f1ce606e5f3ae88ad3b8b0cec5528dfe31cf724c/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f6d656469612f34323164346564326633643233633733643634643230393633663631663432322e676966)](https://ankitbajpai65)
 <h1 align="center">Hi 👋, I'm Ankit Bajpai</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img height="280" align="right" src=https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitbajpai65&label=Profile%20views&color=0e75b6&style=flat" alt="ankitbajpai65" /> </p>
 
