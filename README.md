@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **my skills**
 
-- 🌱 I’m currently learning **nextjs and nodejs.**
+- 🌱 I’m currently learning **nextjs, nodejs, expressjs and mongodb.**
 
 - 👯 I’m looking to collaborate to **opersource community**
 
