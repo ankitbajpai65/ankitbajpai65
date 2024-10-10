@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate to **opersource community**
 
-- 👨‍💻 All of my projects are available at [https://ankitbajpai65.github.io/Portfolio/](https://ankitbajpai65.github.io/Portfolio/)
-
 - 📫 How to reach me **ankit65bajpai@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
